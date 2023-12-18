@@ -1,4 +1,4 @@
-# Start program 
+# Start program
 # dictionary of item inventory hides items unavailable in stock and tracks inventory while running
 def vending():
     a = {"item": "Arwa", "rate": 1.70, "available stock": 2}
